@@ -1,19 +1,20 @@
 # UwU Site
 A modular, hackable, and expandable website and blog with mainly PHP and HTML/CSS.
+
 [![](https://projectuwu.com/images/uwusite_example.png)](https://projectuwu.com/images/uwusite_example.png)
 
 UwU Site in use:
 https://projectuwu.com
 
-####Why?
+#### Why?
 I was redesigning my site, but I couldn't quite find something that fit my needs and my idea of simplicity so I made this.
 
-####Simplicity _(kinda)_
+#### Simplicity _(kinda)_
 I wanted to make a site that was somewhat simple to manage with just files. That way I can move stuff around and change what I need all with using stuff I already know.
 
 That's why the posts with UwU Site are made with HTML rather than markdown. I want to give the user as much freedom as they to make their site the way they want it.
 
-####Setup and usage
+#### Setup and usage
 - Should work fine with any web server that support PHP.
 
 - In the config folder you will see a nav and banner php files. You can edit these to make them what you would like.
@@ -33,5 +34,5 @@ For this you just need to change the articles path to reflect your current folde
 
 - Anything else such as css changes, favicon changes, font changes you can find the relevant files in the files folder.
 
-####Bugs, Issues, Improvements
+#### Bugs, Issues, Improvements
 Feel free to make a bug report, submit improvements, or request features.
