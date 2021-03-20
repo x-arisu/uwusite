@@ -57,6 +57,7 @@ body {
   background-color: black;
   margin: 0 auto;
   color: white;
+  overflow: hidden;
 }
 #content { /*main content*/
   width: 700px;
