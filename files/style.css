@@ -84,7 +84,7 @@ body {
 a.title {
   font-size: 20px !important;
 }
-a:hover.title {
+a .title:hover {
   color: red;
 }
 .timestamp {
@@ -99,6 +99,7 @@ a:hover.title {
 .postContent {
   display: block;
   font-size: 15px;
+  padding-top: 33px;
 }
 #titleContainer {
   width: 680px;
@@ -132,6 +133,9 @@ a {
 	color: orange;
 	text-decoration: none;
   font-size: inherit !important;
+}
+#titleContainer a {
+  outline: none;
 }
 #imgContainer {
   height: 128px;
