@@ -27,8 +27,6 @@ If you're working with the blog, you will notice that the title and timestamp li
 - Multiple posts: Making more than one post on a page is very easy. All you need to do is copy a template or what you have for the 001 post and paste it as 002, then edit it accordingly. 
 Remember, it does go from highest to lowest, so you may have to reorder it.
 
-- Page titles are managed manually in the index.php. The only exception to this is for blog articles, the page title is set to the article title.
-
 - Blog configuration: Other than the page title, the only other thing you need to change in the blog's index.php is the article path.
 For this you just need to change the articles path to reflect your current folder setup.
 
