@@ -32,6 +32,8 @@ Remember, it does go from highest to lowest, so you may have to reorder it.
 - Blog configuration: Other than the page title, the only other thing you need to change in the blog's index.php is the article path.
 For this you just need to change the articles path to reflect your current folder setup.
 
+- post_info.php is needed everywhere there is an index so that it can support cards from sites like Twitter.
+
 - Anything else such as css changes, favicon changes, font changes you can find the relevant files in the files folder.
 
 #### Bugs, Issues, Improvements
