@@ -33,5 +33,8 @@ Remember, it does go from highest to lowest, so you may have to reorder it.
 
 - Anything else such as css changes, favicon changes, font changes you can find the relevant files in the files folder.
 
+- RSS is available for all blogs now! all you need to do is enter the domain in the rss config and you should be all set
+You should be able to access rss by putting `?rss` at the end of the url for your blog
+
 #### Bugs, Issues, Improvements
 Feel free to make a bug report, submit improvements, or request features.

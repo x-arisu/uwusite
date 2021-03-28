@@ -7,5 +7,7 @@
         <span class="subtitle">And more!</span>
         <br>
         Example post contents
+        <br>
+        <a href="?rss">rss_feed</a>
       </div>
 </div>
