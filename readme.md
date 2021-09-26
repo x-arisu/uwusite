@@ -1,4 +1,4 @@
-# UwU Site
+# UwU Site [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G86CLNR)
 A modular, hackable, and expandable website and blog with mainly PHP and HTML/CSS.
 
 [![](https://projectuwu.com/images/uwusite_example.png)](https://projectuwu.com/images/uwusite_example.png)
